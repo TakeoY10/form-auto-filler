@@ -9,8 +9,8 @@ O projeto foi projetado para funcionar de forma transparente, sem conflitos com 
 ## Tecnologias e Bibliotecas Utilizadas
 
 - **Python 3.15+**
-- keyboard: Escuta e captura de eventos globais de teclado no nível do sistema operacional.
-- PyAutoGUI` & `pyperclip`: Manipulação do clipboard e injeção de comandos de colagem (`Ctrl+V`) com suporte total a acentuação e caracteres especiais (UTF-8).
+- **`keyboard`**: Escuta e captura de eventos globais de teclado no nível do sistema operacional.
+- **`PyAutoGUI` & `pyperclip`**: Manipulação do clipboard e injeção de comandos de colagem (`Ctrl+V`) com suporte total a acentuação e caracteres especiais (UTF-8).
 - **Windows Batch Scripting (`.bat`)**: Automação de inicialização com elevação automática de privilégios de Administrador via PowerShell.
 
 ---
