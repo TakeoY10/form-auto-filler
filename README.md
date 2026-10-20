@@ -37,8 +37,8 @@ form-auto-filler/
 | `Shift + F4` | **Nome de Usuário** |
 | `Ctrl + F1` | **Telefone / WhatsApp** |
 | `Ctrl + F2` | **CPF** |
-| `Ctrl + Shift + P` | **CEP (Código Postal)** |
-| `Esc` | **Encerrar a aplicação** |
+| `Ctrl + F8` | **CEP (Código Postal)** |
+| `Shift + Esc` | **Encerrar a aplicação** |
 
 ---
 
